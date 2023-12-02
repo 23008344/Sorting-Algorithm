@@ -74,9 +74,11 @@ insertion_sort(list_of_nums)
 
 ## Output:
 i)
-![Alt text](image.png)
+![image](https://github.com/23008344/Sorting-Algorithm/assets/145742655/f871f45e-2df6-4d48-9ff7-2608cae9cb82)
+
 ii)
-![Alt text](image-1.png)
+![image](https://github.com/23008344/Sorting-Algorithm/assets/145742655/0e9d7e50-6c90-4980-9fda-d712d31fcdc6)
+
 
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
